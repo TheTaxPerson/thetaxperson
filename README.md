@@ -5,7 +5,7 @@ All hail the crack gods
 <br />
 
 ### Get in touch with me on:
-<img align="left" alt="Discord" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" height="30px" width="30px"/>[Discord](https://discord.gg/qRKgMVVdTg)
+<img align="left" alt="Discord" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" height="30px" width="30px"/>[Discord](https://discord.gg/qvJy3dn7yH)
 <br />
 <br />
 
