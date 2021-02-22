@@ -1,7 +1,8 @@
 ## Greetings from TheTaxPerson! 
 
-My name is George and I live in Greece<br>
-All hail the crack gods
+I'm George and I live in Greece
+<br />
+I am an 18 Year Old Developer/Twitch Streamer
 <br />
 
 ### Get in touch with me on:
