@@ -6,6 +6,9 @@ I am an 18 Year Old Developer/Twitch Streamer
 <br />
 
 ### Get in touch with me on:
+<a href="https://discord.gg/mG94DqX"><p><img align="center" src="https://discord.c99.nl/widget/theme-4/678950545230135308.png" alt="thetaxperson"/></a>
+<br />
+<br />
 <img align="left" alt="Discord" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" height="30px" width="30px"/>[Discord](https://discord.gg/qvJy3dn7yH)
 <br />
 <br />
