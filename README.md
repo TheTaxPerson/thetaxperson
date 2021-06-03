@@ -2,7 +2,7 @@
 
 I'm George and I live in Greece
 <br />
-I am an 18 Year Old Developer/Twitch Streamer
+I am an 19 Year Old Developer/Twitch Streamer
 <br />
 
 ### Get in touch with me on:
