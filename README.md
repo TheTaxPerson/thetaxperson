@@ -3,7 +3,7 @@
 I'm George and I live in Greece
 <br />
 I am a 23 Year Old Developer
-Founder and lead developer of [Vastoria](https://discord.gg/vastoria)
+Founder and lead developer of [Vastoria](https://discord.gg/Vastoria)
 <br />
 
 ### Get in touch with me on:
