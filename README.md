@@ -1,32 +1,66 @@
-## Greetings from TheTaxPerson! 
+<!-- Profile README for github.com/thetaxperson -->
 
-I'm George and I live in Greece
-<br />
-I am a 23 Year Old Developer
-<br />
-Founder and Lead Developer of [Vastoria](https://discord.gg/CAsunGSWdU)
-<br />
+<div align="center">
 
-### Get in touch with me on:
-<a href="https://discord.gg/qvJy3dn7yH"><p><img align="center" src="https://discord.c99.nl/widget/theme-2/678950545230135308.png" alt="thetaxperson"/></a>
-<br />
-<br />
-<img align="left" alt="Discord" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" height="30px" width="30px"/>[Discord](https://discord.gg/qvJy3dn7yH)
-<br />
-<br />
+# 👋 Hey, I'm **TheTaxPerson**
+### Full-Stack Developer • Game Creator • Chatbot Builder
 
-### Watch my streams:
-<img align="left" alt="Twitch" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c540.png" height="30px" width="30px"/>[Twitch](https://twitch.tv/thetaxperson)
-<br />
-<br />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=BF5FFF&center=true&vCenter=true&width=550&lines=Full-stack+developer;Minecraft+plugin+creator;Roblox+game+developer;Chatbot+engineer;Always+building+something+new)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+### 🧠 Currently Working On
+- An android/ios application for an orthodontist
+
+---
+
+### 🧰 Tech Stack
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=bf5fff)
+![CSS3](https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=bf5fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=bf5fff)
+![Node.js](https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=node.js&logoColor=bf5fff)
+![React](https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=bf5fff)
+![Express](https://img.shields.io/badge/Express-121212?style=for-the-badge&logo=express&logoColor=bf5fff)
+![MariaDB](https://img.shields.io/badge/MariaDB-121212?style=for-the-badge&logo=mariadb&logoColor=bf5fff)
+![Java](https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=openjdk&logoColor=bf5fff)
+![Lua](https://img.shields.io/badge/Lua-121212?style=for-the-badge&logo=lua&logoColor=bf5fff)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+
+![TheTaxPerson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thetaxperson&show_icons=true&theme=tokyonight&hide_border=true&title_color=bf5fff&icon_color=bf5fff&text_color=cfcfcf&bg_color=00000000)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thetaxperson&layout=compact&theme=tokyonight&hide_border=true&title_color=bf5fff&text_color=cfcfcf&bg_color=00000000)  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=thetaxperson&theme=tokyonight&hide_border=true&background=00000000&ring=bf5fff&fire=bf5fff&currStreakLabel=bf5fff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 🕒 Activity
+![Last Commit](https://img.shields.io/github/last-commit/thetaxperson/thetaxperson?color=bf5fff&label=Last%20Update&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=thetaxperson&color=bf5fff&style=flat-square)
+
+---
+
+### 📫 Connect
+- 💼 [GitHub](https://github.com/thetaxperson)  
+- 🐦 [Twitter/X](https://x.com/thetaxperson)
+- 💬 Discord: **TheTaxPerson**  
 
 
-### Want to support me?
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/thetaxperson)
-<br />
-<br />
+---
 
+<div align="center">
 
-### Some stats
-![Stats](https://github-readme-stats.vercel.app/api?username=thetaxperson&show_icons=true&count_private=true&theme=cobalt)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetaxperson&layout=compact&theme=cobalt)
+> _“Code it clean. Ship it proud.”_ 💜
+
+</div>
