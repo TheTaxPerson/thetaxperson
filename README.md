@@ -30,7 +30,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=thetaxperson&theme=tokyonight&hide_border=true&background=00000000&ring=bf5fff&fire=bf5fff&currStreakLabel=bf5fff)](https://git.io/streak-stats)
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=thetaxperson&theme=tokyonight&hide_border=true&background=00000000&ring=bf5fff&fire=bf5fff&currStreakLabel=bf5fff)](https://git.io/streak-stats)
 
 </div>
 
