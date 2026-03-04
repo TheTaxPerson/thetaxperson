@@ -11,11 +11,6 @@
 
 ---
 
-### 🧠 Currently Working On
-- An android/ios application for an orthodontist
-
----
-
 ### 🧰 Tech Stack
 <div align="center">
 
@@ -35,10 +30,6 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-
-![TheTaxPerson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thetaxperson&show_icons=true&theme=tokyonight&hide_border=true&title_color=bf5fff&icon_color=bf5fff&text_color=cfcfcf&bg_color=00000000)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thetaxperson&layout=compact&theme=tokyonight&hide_border=true&title_color=bf5fff&text_color=cfcfcf&bg_color=00000000)  
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=thetaxperson&theme=tokyonight&hide_border=true&background=00000000&ring=bf5fff&fire=bf5fff&currStreakLabel=bf5fff)](https://git.io/streak-stats)
 
 </div>
